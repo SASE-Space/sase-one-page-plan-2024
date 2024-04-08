@@ -1,0 +1,69 @@
+{
+    "MISSON": {
+        "REVOLUTION": [
+            " _____ _____ _____ _____ __    _____ _____ _____ _____ _____ ",
+            "| __  |   __|  |  |     |  |  |  |  |_   _|     |     |   | |",
+            "|    -|   __|  |  |  |  |  |__|  |  | | | |-   -|  |  | | | |",
+            "|__|__|_____\\___/|_____|_____|_____| |_| |_____|_____|_|___|"
+        ],
+        "We are automation software engineers.": "We are bilingual. We are defining a new category.",
+        "We are a community.": "We come together with a shared interest and purpose. You are not alone.",
+        "We exist to drive change.": "We are a united front. We have credibility, strength in numbers, & influence."
+    },
+    
+    "VALUES": {
+        "Build community": [
+            "Welcome the person. Create safety and belonging.",
+            "Carry your own bag. Show up."
+        ],
+        "Challenge ideas": [
+            "Productive disagreement. Listen. Ask another question.",
+            "Be opinionated, not judgmental. Stay within the SASE Venn diagram."
+        ],
+        "Share openly": [
+            "Support open source. Cross-disciplinary exchange.",
+            "Offer your experience, not your advice. There are no stupid questions.",
+            "“Given enough eyeballs, all bugs are shallow.” No selling. No gatekeeping."
+        ],
+        "Advance the cause": [
+            "Here for the right reasons. Be an advocate.",
+            "Inherently political to encourage new thinking.",
+            "Be fearless, unafraid to do something new."
+        ]
+    },
+    "VISION": "When people want to know who is working on the coolest shit, they come to SASE.",
+   
+    "What our future holds": [
+        "connection", "opportunity", "learning", "belonging", "open source", "global crew", 
+        "self-sustaining", "independent & open", "helping people solve problems",
+        "community-generated resources", "membership in service of mission", "focused",
+        "moderated", "equitable events"
+    ],
+
+    "2024 TODO": {
+        "INVITE": [
+            "Tap into the network’s network. Invite someone to invite someone.",
+            "Prioritize under-represented. Including others is a way of contributing."
+        ],
+        "ENGAGE": [
+            "Ask a question. Show your work. Have an argument."
+        ],
+        "CONNECT": [
+            "Get together virtually or IRL. Have an agenda.",
+            "Make room for folks to chime in. SASE- or self-organized."
+        ],
+        "BUILD": [
+            "Tools, resources, summaries, FAQ"
+        ],
+        "BROADCAST": [
+            "LinkedIn, Discord, Reddit, Wherever"
+        ]
+    },
+    
+    "LOGO": [
+        " _____ _____ _____ _____",
+        "|   __|  _  |   __|   __|",
+        "|__   |     |__   |   __|",
+        "|_____|__|__|_____|_____|"
+    ]
+}
